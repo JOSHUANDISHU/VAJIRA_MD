@@ -9,12 +9,12 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=uMcEQSBT#cl_rk2eoinr-hR8tYlUegcVqMCutsd-vCeYTelDK31A"
         },
     "OWNER_NUMBER": {
             "description": "Type Your Number Here",
             "required": true,
-            "value": ""
+            "value": "254791195553"
         }
     },
          "buildpacks": [
